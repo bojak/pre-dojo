@@ -1,2 +1,5 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Altair de Carvalho GonÃ§alves
+
+Fiz uma aplicaÃ§Ã£o simples, sem o spring. 
+Criei uma classe main cujo o nome dela Ã© ProcessRanking, rodando ela serÃ¡ obtido o resultado atravÃ©s de um messageBox.
+O arquivo de log estÃ¡ localizado na pasta resources/service.
